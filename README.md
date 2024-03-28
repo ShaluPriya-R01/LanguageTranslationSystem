@@ -1,4 +1,4 @@
-                                            # English to Hindi Translation App
+                                            ## English to Hindi Translation App
  This Streamlit web application translates English articles into Hindi using pre-trained models from the Hugging Face Transformers library. It utilizes the MBart model for conditional generation to provide accurate translations.
 
 #Features 
